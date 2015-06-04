@@ -1,0 +1,11 @@
+[Protocol]
+exec=hydrogen-qt '%u'
+protocol=hydrogen
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HydroGen
+Comment=HydroGen P2P Cryptocurrency
+Comment[fr]=HydroGen, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=HydroGen, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/hydrogen-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/hydrogen;
+Categories=Office;

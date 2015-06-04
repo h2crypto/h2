@@ -1,0 +1,2 @@
+debian/bin/hydrogend usr/bin
+src/hydrogend usr/lib/hydrogen
